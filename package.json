@@ -1,0 +1,29 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "CMS built in Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendychanhk/express-workshop.git"
+  },
+  "keywords": [
+    "express",
+    "cms"
+  ],
+  "author": "wendychanhk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendychanhk/express-workshop/issues"
+  },
+  "homepage": "https://github.com/wendychanhk/express-workshop#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mustache-express": "^1.2.2",
+    "pug": "^2.0.0-beta3"
+  }
+}
